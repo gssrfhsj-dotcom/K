@@ -1,0 +1,53 @@
+{
+  "hello": {
+    "duration": 2000,
+    "frames": [
+      {"rElbow":[0.68,0.45],"rWrist":[0.72,0.28],"rHand":"open"},
+      {"rElbow":[0.68,0.45],"rWrist":[0.8,0.3],"rHand":"open"},
+      {"rElbow":[0.68,0.45],"rWrist":[0.72,0.28],"rHand":"open"},
+      {"rElbow":[0.68,0.45],"rWrist":[0.8,0.3],"rHand":"open"}
+    ]
+  },
+  "thanks": {
+    "duration": 1600,
+    "frames": [
+      {"rElbow":[0.66,0.62],"rWrist":[0.58,0.45],"rHand":"flat"},
+      {"rElbow":[0.68,0.64],"rWrist":[0.68,0.52],"rHand":"flat"}
+    ]
+  },
+  "good": {
+    "duration": 1400,
+    "frames": [
+      {"rElbow":[0.68,0.62],"rWrist":[0.66,0.46],"rHand":"thumbsUp"},
+      {"rElbow":[0.68,0.6],"rWrist":[0.66,0.42],"rHand":"thumbsUp"}
+    ]
+  },
+  "love": {
+    "duration": 1600,
+    "frames": [
+      {"rElbow":[0.68,0.5],"rWrist":[0.7,0.32],"rHand":"ily"},
+      {"rElbow":[0.68,0.5],"rWrist":[0.73,0.32],"rHand":"ily"},
+      {"rElbow":[0.68,0.5],"rWrist":[0.7,0.32],"rHand":"ily"}
+    ]
+  },
+  "yes": {
+    "duration": 1500,
+    "frames": [
+      {"rElbow":[0.68,0.68],"rWrist":[0.68,0.5],"rHand":"fist"},
+      {"rElbow":[0.68,0.68],"rWrist":[0.68,0.57],"rHand":"fist"},
+      {"rElbow":[0.68,0.68],"rWrist":[0.68,0.5],"rHand":"fist"}
+    ]
+  },
+  "me": {
+    "duration": 1200,
+    "frames": [
+      {"rElbow":[0.7,0.62],"rWrist":[0.58,0.5],"rHand":"point"}
+    ]
+  },
+  "peace": {
+    "duration": 1400,
+    "frames": [
+      {"rElbow":[0.68,0.5],"rWrist":[0.7,0.32],"rHand":"peace"}
+    ]
+  }
+}
